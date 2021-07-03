@@ -58,7 +58,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	line-height: normal;
 	color: #000;
 	text-decoration: none;
-	background-image: url(Images/banner.jpg);
+	background-image: url(banner.jpg);
 }
 
 /* ~~ This is the layout information. ~~ 
